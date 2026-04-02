@@ -39,19 +39,18 @@ I am currently mastering the intersection of high-performance systems and intera
 </p>
 
 ### 📈 Detailed Statistics
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oyehimar-bot&show_icons=true&theme=discord_old_blurple&hide_border=false&count_private=true" alt="oyehimar-bot's Stats" />
 </p>
--->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=oyehimar-bot&theme=discord_old_blurple&hide_border=false" alt="oyehimar-bot's Streak" />
 </p>
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyehimar-bot&theme=discord_old_blurple&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
--->
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oyehimar-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
