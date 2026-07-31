@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 🚀 Aspiring Front-End Engineer & Game Developer 
+### 🚀 Aspiring Front-End Engineer & Game Developer
 **Building for the Web and the Game Engine.**
 
 I am currently mastering the intersection of high-performance systems and interactive design. My focus is on crafting fluid, responsive interfaces while building robust logic for the next generation of gaming experiences.
@@ -13,7 +13,15 @@ I am currently mastering the intersection of high-performance systems and intera
 > "That brain of mine is something more than merely mortal; as time will show." — **Ada Lovelace**
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oye-himar-9498792b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OyeHimar) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/oyehimar) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/oyehimar-bot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyehimar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oye-himar-9498792b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OyeHimar) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/oyehimar-bot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyehimar@gmail.com)
+
+<!--
+Discord badge removed — https://discord.com/users/oyehimar doesn't work because Discord profile
+links require your numeric User ID, not your username. To re-add it:
+1. Discord Settings → Advanced → enable Developer Mode
+2. Right-click your profile → Copy User ID
+3. Use: https://discord.com/users/<your-numeric-id>
+-->
 
 ---
 
@@ -51,6 +59,20 @@ I am currently mastering the intersection of high-performance systems and intera
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyehimar-bot&theme=discord_old_blurple&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
+<!--
+NOTE ON THE STATS/TOP-LANGS/TROPHY BADGES ABOVE & BELOW:
+These use the free public github-readme-stats.vercel.app and github-profile-trophy.vercel.app
+instances. Both are shared by hundreds of thousands of GitHub profiles and frequently return
+503 / "deployment paused" errors when the shared quota is exceeded — this is a known, widely
+reported issue with the services themselves, not a mistake in this file. If badges are showing
+broken images, the most durable fix is to self-host your own instance:
+  - Fork https://github.com/anuraghazra/github-readme-stats and deploy your own copy to Vercel
+    (free), then point these <img src> URLs at your own *.vercel.app domain.
+  - Fork https://github.com/ryo-ma/github-profile-trophy the same way, or use one of the
+    volunteer-run mirrors listed in that repo's README (e.g. under "Alternative Endpoints").
+Self-hosting takes ~5-10 minutes and removes the shared-quota problem entirely.
+-->
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oyehimar-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
@@ -58,7 +80,5 @@ I am currently mastering the intersection of high-performance systems and intera
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=oyehimar-bot&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=oyehimar-bot&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
