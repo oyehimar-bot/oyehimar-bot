@@ -7,7 +7,7 @@ I am currently mastering the intersection of high-performance systems and intera
 
 * 🛠️ **Current Stack:** Go, Python, HTML/CSS
 * 🕹️ **Focus:** Performance-driven Front-End & Game Architecture
-* 📚 **Learning Path:** Moving toward Rust and JavaScript for systems-level web & game dev.
+* 📚 **Learning Path:** Moving toward JavaScript for systems-level web & game dev.
 * ⚡ **Fun Fact:** I have a "stable" relationship with my code... until I forget a semicolon. Then, it's a "it's complicated" status for the rest of the night.
 
 > "That brain of mine is something more than merely mortal; as time will show." — **Ada Lovelace**
@@ -31,7 +31,7 @@ links require your numeric User ID, not your username. To re-add it:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⏳ Coming Soon:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
